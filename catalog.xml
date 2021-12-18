@@ -1,0 +1,25 @@
+<catalog>
+<book>
+<title>XMBL BIBLE</title>
+<author>winston</author>
+<publication>wiely</publication>
+<edition>fifth edition</edition>
+<isbn>0-7645-4760</isbn>
+<price>$40.5</price>
+</book>
+<book>
+<title>artificial intelligence</title>
+<author>s.russel</author>
+<publication>princeton hall</publication>
+<edition>sixth edition</edition>
+<isbn>0-13-1038-5-2</isbn>
+<price>$63</price>
+</book>
+<book>
+<title>html in 24 hours</title>
+<author>sam peter</author>
+<edition>fifth edition</edition>
+<isbn>0-12-1043-4-3</isbn>
+<price>$50</price>
+</book>
+</catalog>
